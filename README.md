@@ -23,32 +23,20 @@ Exploring AI agents, automation pipelines, and creative technology applications.
 
 ---
 
-## 📊 GitHub Stats — Including Private Repos
+## 📊 GitHub Stats
+
+> *Note: For the most accurate private repo data, ensure "Include private contributions on my profile" is enabled in your GitHub Settings > Profile.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedElseify&count_private=true&include_all_commits=true&show_icons=true&theme=radical&line_color=6e5b9b&title_color=f0f9ff&text_color=c0c8d8&icon_color=ff6b6b&hide=html,css" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedElseify&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&line_color=6e5b9b&title_color=f0f9ff&text_color=c0c8d8&icon_color=ff6b6b" alt="MohamedElseify's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElseify&count_private=true&theme=radical&line_color=6e5b9b&title_color=f0f9ff&text_color=c0c8d8&icon_color=ff6b6b&hide=html,css&langs_count=8" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElseify&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=ff6b6b&background=1e1e2f&ring=6e5b9b&fire=ff6b6b&currStreakNum=f0f9ff&sideNums=f0f9ff&currStreakLabel=f0f9ff&sideLabels=c0c8d8&dates=c0c8d8" alt="MohamedElseify's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MohamedElseify&count_private=true&theme=radical&stroke=ff6b6b&background=1e1e2f&border=6e5b9b&stroke_width=2" alt="GitHub Streak">
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedElseify&count_private=true&theme=redical&hide_border=true&bg_color=1e1e2f&color=ff6b6b&line=6e5b9b&point=f0f9ff" alt="Contribution Graph">
-</p>
-
-## 🎮 GitHub Activity Visual
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L0Hl9JBrJpuuQ/giphy.gif" width="420" alt="GitHub Activity GIF">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElseify&layout=compact&theme=radical&count_private=true&hide_border=true&langs_count=10&hide=html,css,scss" alt="Top Languages" />
 </p>
 
 ---
