@@ -2,13 +2,23 @@
 
 👋 **Hi, I'm MohamedElseify**
 
-A developer passionate about building elegant software and exploring creative technologies.
+A developer building intelligent systems and exploring the boundaries of what's possible with technology.
 
 ---
 
-## 🎨 About This Profile
+## 🔭 Working On
 
-This space is designed to showcase my work and connect with the community. I believe in clean code, thoughtful design, and continuous learning.
+I'm currently exploring AI agents, automation pipelines, and creative technology applications. Building tools that combine intelligence with practical utility.
+
+---
+
+## 💬 Interests
+
+- Artificial Intelligence & Machine Learning
+- Automation & Agentic Systems
+- Creative Technology & Generative AI
+- Software Architecture & Design
+- Open Source & Community Building
 
 ---
 
@@ -31,4 +41,4 @@ This space is designed to showcase my work and connect with the community. I bel
 
 ---
 
-*Built with ❤️ and Markdown*
+*⚙️ Always learning, always building.*
