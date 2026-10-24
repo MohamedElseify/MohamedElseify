@@ -50,8 +50,6 @@ class MohamedElseify:
 
 ## 📊 GitHub Analytics
 
-> **Private contributions are enabled** - Displaying combined statistics from public and private repositories.
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedElseify&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=ff6b6b" alt="GitHub Stats"/>
 </div>
