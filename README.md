@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Anime coder gif"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=45&lines=Hi%2C%20I'm%20MohamedElseify;Building%20Intelligent%20Systems;Always%20Learning%2C%20Always%20Building" alt="Typing SVG" />
 </div>
 
