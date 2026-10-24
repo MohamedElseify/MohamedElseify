@@ -23,7 +23,7 @@ Exploring AI agents, automation pipelines, and creative technology applications.
 
 ---
 
-## 📊 GitHub Overview — Accurate Stats
+## 📊 GitHub Stats — Accurate & Verified
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedElseify&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_color=6e5b9b&title_color=f0f9ff&text_color=c0c8d8&icon_color=ff6b6b&hide=html,css" alt="GitHub Stats">
@@ -39,10 +39,12 @@ Exploring AI agents, automation pipelines, and creative technology applications.
 
 ---
 
-## 🏆 Profile Snapshot
+## 📦 Repository Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/views/?username=MohamedElseify&count_private=true&theme=radical&show_icons=true&line_color=6e5b9b&title_color=f0f9ff&text_color=c0c8d8&icon_color=ff6b6b" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Public%20Repos-1-ff6b6b?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos">
+  <img src="https://img.shields.io/badge/Private%20Repos-29-ffa500?style=for-the-badge&logo=github&logoColor=white" alt="Private Repos">
+  <img src="https://img.shields.io/badge/Total%20Repos-30-4ecb7b?style=for-the-badge&logo=github&logoColor=white" alt="Total Repos">
 </p>
 
 ---
