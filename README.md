@@ -23,7 +23,7 @@ Exploring AI agents, automation pipelines, and creative technology applications.
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Overview — Accurate Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedElseify&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_color=6e5b9b&title_color=f0f9ff&text_color=c0c8d8&icon_color=ff6b6b&hide=html,css" alt="GitHub Stats">
@@ -39,14 +39,10 @@ Exploring AI agents, automation pipelines, and creative technology applications.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Profile Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/views/ Mos_Edify?username=MohamedElseify&count_private=true&theme=radical&show_icons=true&line_color=6e5b9b&title_color=f0f9ff&text_color=c0c8d8&icon_color=ff6b6b" alt="Views">
-</p>
-
-<p align="center">
-  <img src="https://github.com/MohamedElseify/MohamedElseify/commits/main?logo=github&style=flat-square" alt="Recent Activity">
+  <img src="https://github-readme-stats.vercel.app/api/views/?username=MohamedElseify&count_private=true&theme=radical&show_icons=true&line_color=6e5b9b&title_color=f0f9ff&text_color=c0c8d8&icon_color=ff6b6b" alt="Profile Views">
 </p>
 
 ---
