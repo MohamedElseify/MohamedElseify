@@ -50,7 +50,7 @@ class MohamedElseify:
 
 ## 📊 GitHub Analytics
 
-> **Important:** To see private repository data, you must enable *"Include private contributions on my profile"* in your GitHub Settings → Profile. Without this, third-party stats services can only show public repository data.
+> **Private contributions enabled** - Stats now include activity from private repositories.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedElseify&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=ff6b6b" alt="GitHub Stats"/>
