@@ -59,7 +59,7 @@ class MohamedElseify:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElseify&layout=compact&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElseify&layout=donut-vertical&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=10&card_width=400" alt="Top Languages"/>
 </div>
 
 <div align="center">
