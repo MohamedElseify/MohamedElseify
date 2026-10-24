@@ -65,7 +65,7 @@ class MohamedElseify:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedElseify&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedElseify&theme=radical" alt="Contribution Graph"/>
 </div>
 
 ---
