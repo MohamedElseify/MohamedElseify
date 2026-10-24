@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+MohamedElseify;Building+Intelligent+Systems;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <h1>Hi there, I'm MohamedElseify</h1>
+  <h3>Building Intelligent Systems • Always Learning • Always Building</h3>
 </div>
 
 <div align="center">
@@ -50,19 +51,19 @@ class MohamedElseify:
 
 ## 📊 GitHub Analytics
 
-> **Private contributions enabled** - Stats now include activity from private repositories.
+> **Private contributions are enabled** - Displaying combined statistics from public and private repositories.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedElseify&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=ff6b6b" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElseify&layout=compact&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8&hide=html,css,scss" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedElseify&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=ff6b6b" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedElseify&layout=compact&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElseify&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=ff6b6b&fire=ffa500&currStreakLabel=ff6b6b&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=MohamedElseify&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=ff6b6b&fire=ffa500&currStreakLabel=ff6b6b&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&count_private=true" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedElseify&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedElseify&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph%20%28Public%20%2B%20Private%29" alt="Contribution Graph"/>
 </div>
 
 ---
