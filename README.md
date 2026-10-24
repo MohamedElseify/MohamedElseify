@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="350" alt="Anime coder gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2Y0ZXJuNHBremNleDVybXlvcHV1M3YyZ3F2MzFkcDNwbXVld2JjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif" width="350" alt="Male anime coder gif"/>
 </div>
 
 <div align="center">
