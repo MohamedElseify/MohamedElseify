@@ -23,17 +23,27 @@ Exploring AI agents, automation pipelines, and creative technology applications.
 
 ---
 
-## 📊 GitHub Stats — With Private Repo Accounting
+## 📊 GitHub Stats — Including Private Repos
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedElseify&count_private=true&show_icons=true&theme=radical&line_color=6e5b9b&title_color=f0f9ff&text_color=c0c8d8&icon_color=ff6b6b&hide=html,css" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedElseify&count_private=true&include_all_commits=true&show_icons=true&theme=radical&line_color=6e5b9b&title_color=f0f9ff&text_color=c0c8d8&icon_color=ff6b6b&hide=html,css" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElseify&count_private=true&theme=radical&line_color=6e5b9b&title_color=f0f9ff&text_color=c0c8d8&icon_color=ff6b6b&hide=html,css" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElseify&count_private=true&theme=radical&line_color=6e5b9b&title_color=f0f9ff&text_color=c0c8d8&icon_color=ff6b6b&hide=html,css&langs_count=8" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MohamedElseify&count_private=true&theme=radical&stroke=ff6b6b&background=1e1e2f&border=6e5b9b&stroke_width=2" alt="GitHub Streak">
 </p>
 
 ---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedElseify&count_private=true&theme=redical&hide_border=true&bg_color=1e1e2f&color=ff6b6b&line=6e5b9b&point=f0f9ff" alt="Contribution Graph">
+</p>
 
 ## 🎮 GitHub Activity Visual
 
