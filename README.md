@@ -3,41 +3,43 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=45&lines=Hi%2C%20I'm%20MohamedElseify;Building%20Intelligent%20Systems;Always%20Learning%2C%20Always%20Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&height=50&lines=Hi%2C%20I'm%20MohamedElseify;Full%20Stack%20AI%20Developer;Building%20Agents%20That%20Actually%20Ship;Turning%20Ideas%20Into%20Autonomous%20Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamedElseify&label=Profile%20Views&color=ff6b6b&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/MohamedElseify?label=Followers&style=for-the-badge&color=ff6b6b&labelColor=0D1117" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Shit-ff6b6b?style=for-the-badge&labelColor=0D1117" alt="Status" />
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
 ```python
 class MohamedElseify:
     def __init__(self):
-        self.role = "Developer"
-        self.focus = ["AI Agents", "Automation", "Intelligent Systems"]
-        self.languages = ["Python", "TypeScript", "C#"]
-        self.interests = ["Generative AI", "Agentic Workflows", "Creative Tech"]
+        self.role = "Full Stack AI Developer"
+        self.specialization = ["Autonomous Agents", "AI Automation", "Intelligent Systems"]
+        self.mindset = "Ship fast. Break things. Fix better."
+        self.current_goal = "Building AI that actually solves problems"
         
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+    def get_current_mission(self):
+        return "Turning wild ideas into production-ready AI systems"
 ```
 
 ---
 
-## 💫 What I'm Working On
+## 💪 What I Do
 
-- 🤖 Building intelligent AI agents and automation pipelines
-- 🧠 Exploring creative applications of generative AI
-- ⚡ Crafting tools that bridge innovation with practical utility
-- 🔧 Designing scalable, elegant software solutions
+- **🤖 AI Agents** - Building autonomous agents that think, act, and execute
+- **⚡ Automation** - Turning complex workflows into one-click solutions
+- **🧠 Generative AI** - Pushing the boundaries of creative + practical AI
+- **🚀 Full-Stack Engineering** - From idea to deployed product
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Arsenal
 
 <div align="center">
   
@@ -47,23 +49,22 @@ class MohamedElseify:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Domination
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedElseify&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=ff6b6b" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedElseify&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=ff4757&ring_color=ff6b6b" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElseify&layout=compact&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MohamedElseify&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=ff6b6b&fire=ffa500&currStreakLabel=ff6b6b&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElseify&layout=donut-vertical&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=10&card_width=400" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=MohamedElseify&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=ff4757&fire=ff4757&currStreakLabel=ff6b6b&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
@@ -72,17 +73,17 @@ class MohamedElseify:
 
 ---
 
-## 📈 Repository Overview
+## 📈 Arsenal Stats
 
 <div align="center">
   <img src="https://img.shields.io/badge/Public%20Repos-1-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/>
-  <img src="https://img.shields.io/badge/Private%20Repos-29-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="Private Repos"/>
+  <img src="https://img.shields.io/badge/Private%20Repos-29-FF4757?style=for-the-badge&logo=github&logoColor=white" alt="Private Repos"/>
   <img src="https://img.shields.io/badge/Total%20Repos-30-4ECB7B?style=for-the-badge&logo=github&logoColor=white" alt="Total Repos"/>
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect & Build
 
 <div align="center">
   <a href="https://github.com/MohamedElseify">
@@ -100,5 +101,5 @@ class MohamedElseify:
 </div>
 
 <div align="center">
-  <i>⚡ "Code is poetry written for machines to understand and humans to maintain." ⚡</i>
+  <b>⚡ Code. Build. Ship. Repeat. ⚡</b>
 </div>
