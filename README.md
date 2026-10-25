@@ -56,7 +56,8 @@ class MohamedElseify:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElseify&layout=donut&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=12&card_width=500" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedElseify&theme=radical" alt="Most Used Languages by Commits"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedElseify&theme=radical" alt="Languages by Repo Count"/>
 </div>
 
 <div align="center">
