@@ -33,12 +33,11 @@ class MohamedElseify:
 
 - **Remote workstation management** — Managing distributed systems across multiple VMs and workstations (38 containers, 443GB storage across host clusters)
 - **Infrastructure orchestration** — SSH tunnels, vault synchronization, automated backups (Duplicati, rsync) across on-premise and cloud hosts
-- **Security hardening** — Wazuh agent deployment, firewall rules (OpenSnitch), container security policies, key management across 192.168.x.x and 172.18.x.x ranges
+- **Security hardening** — Wazuh agent deployment, firewall rules (OpenSnitch), container security policies, key management
 - **Observability stacks** — Monitoring with cadvisor, splunk syslog, netdata; disk health tracking, resource utilization metrics
 - **Cross-host connectivity** — Jump host architectures, tunnel routing, SSH configuration management, and disaster recovery orchestration
 - **Container platform** — Docker VM hardening, image optimization, container lifecycle management, and private registry operations
 
-*(Whale server infrastructure management; SSH tunnel currently being restored by operations team)*
 
 - **AI Agents** — Autonomous systems that reason, plan, and take action
 - **Intelligent Automation** — Turning complex workflows into seamless solutions
