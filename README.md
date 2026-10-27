@@ -38,6 +38,13 @@ class MohamedElseify:
 - **Cross-host connectivity** — Jump host architectures, tunnel routing, SSH configuration management, and disaster recovery orchestration
 - **Container platform** — Docker VM hardening, image optimization, container lifecycle management, and private registry operations
 
+**Whale Project:** `opencode-opti` — 385+ MSP skills (RMM/PSA/security/finance), multi-agent framework (engineering/product/security/ops/growth/agency, 500+ agent patterns), global-skills directories, automated discovery pipeline, Obsidian vault sync.
+
+*(Whale server at 192.168.100.120; SSH verified working; tunnel restored)*
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25" /> What I Build
 
 - **AI Agents** — Autonomous systems that reason, plan, and take action
 - **Intelligent Automation** — Turning complex workflows into seamless solutions
