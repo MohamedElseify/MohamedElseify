@@ -66,7 +66,7 @@ class MohamedElseify:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedElseify&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=ff4757&ring_color=ff6b6b" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElseify&layout=compact&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElseify&layout=donut&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
 </div>
 
 <div align="center">
