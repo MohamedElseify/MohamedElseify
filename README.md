@@ -29,7 +29,7 @@ class MohamedElseify:
         self.mission = "Transforming ideas into intelligent, production-ready systems"
 ```
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="25" /> Infrastructure & Server
+## <img src="https://user-images.githubusercontent.com/74038190/215468379-accd7ca6-4c65-4317-8b8e-0c3af8a5b4e6.gif" width="30" /> Infrastructure & Server
 
 - **Remote workstation management** — Managing distributed systems across multiple VMs and workstations (40 containers, 500+GB storage across host clusters)
 - **Infrastructure orchestration** — SSH tunnels, vault synchronization, automated backups (Duplicati, rsync) across on-premise and cloud hosts
