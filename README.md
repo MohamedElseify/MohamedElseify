@@ -31,7 +31,6 @@ class MohamedElseify:
 
 ## Infrastructure & Server
 
-<div align="center">
 
 - **Remote workstation management** — Managing distributed systems across multiple VMs and workstations (40 containers, 500+GB storage across host clusters)
 - **Infrastructure orchestration** — SSH tunnels, vault synchronization, automated backups (Duplicati, rsync) across on-premise and cloud hosts
@@ -45,6 +44,7 @@ class MohamedElseify:
 *(Whale server at 192.168.100.120; SSH verified working; tunnel restored)*
 
 ---
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25" /> What I Build
 
