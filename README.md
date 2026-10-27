@@ -31,7 +31,7 @@ class MohamedElseify:
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="25" /> Infrastructure & Whale Server
 
-- **Remote workstation management** — Managing distributed systems across multiple VMs and workstations (38 containers, 443GB storage across host clusters)
+- **Remote workstation management** — Managing distributed systems across multiple VMs and workstations (40 containers, 500+GB storage across host clusters)
 - **Infrastructure orchestration** — SSH tunnels, vault synchronization, automated backups (Duplicati, rsync) across on-premise and cloud hosts
 - **Security hardening** — Wazuh agent deployment, firewall rules (OpenSnitch), container security policies, key management
 - **Observability stacks** — Monitoring with cadvisor, splunk syslog, netdata; disk health tracking, resource utilization metrics
