@@ -32,9 +32,6 @@ class MohamedElseify:
 ## Infrastructure & Server
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2Y0ZXJuNHBremNleDVybXlvcHV1M3YyZ3F2MzFkcDNwbXVld2JjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif" width="25" alt="Server gif"/>
-  Infrastructure & Server
-</div>
 
 - **Remote workstation management** — Managing distributed systems across multiple VMs and workstations (40 containers, 500+GB storage across host clusters)
 - **Infrastructure orchestration** — SSH tunnels, vault synchronization, automated backups (Duplicati, rsync) across on-premise and cloud hosts
@@ -62,7 +59,7 @@ class MohamedElseify:
   <img src="https://skillicons.dev/icons?i=python,ts,cs,js,nodejs,docker,git,linux,vscode&theme=dark&perline=9" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedElseify&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=ff4757&ring_color=ff6b6b" alt="GitHub Stats"/>
