@@ -31,6 +31,11 @@ class MohamedElseify:
 
 ## Infrastructure & Server
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2Y0ZXJuNHBremNleDVybXlvcHV1M3YyZ3F2MzFkcDNwbXVld2JjbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif" width="25" alt="Server gif"/>
+  Infrastructure & Server
+</div>
+
 - **Remote workstation management** — Managing distributed systems across multiple VMs and workstations (40 containers, 500+GB storage across host clusters)
 - **Infrastructure orchestration** — SSH tunnels, vault synchronization, automated backups (Duplicati, rsync) across on-premise and cloud hosts
 - **Security hardening** — Wazuh agent deployment, firewall rules (OpenSnitch), container security policies, key management
