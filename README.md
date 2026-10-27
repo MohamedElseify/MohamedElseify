@@ -39,10 +39,6 @@ class MohamedElseify:
 - **Cross-host connectivity** — Jump host architectures, tunnel routing, SSH configuration management, and disaster recovery orchestration
 - **Container platform** — Docker VM hardening, image optimization, container lifecycle management, and private registry operations
 
-**Whale Project:** `opencode-opti` — 385+ MSP skills (RMM/PSA/security/finance), multi-agent framework (engineering/product/security/ops/growth/agency, 500+ agent patterns), global-skills directories, automated discovery pipeline, Obsidian vault sync.
-
-*(Whale server at 192.168.100.120; SSH verified working; tunnel restored)*
-
 ---
 
 
